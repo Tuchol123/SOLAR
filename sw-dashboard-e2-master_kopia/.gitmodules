@@ -1,0 +1,3 @@
+[submodule "Drivers/LST"]
+	path = Drivers/LST
+	url = https://gitlab.com/lodzsolarteam/elektronicy/eagle2/eagle2-can-dbc.git
